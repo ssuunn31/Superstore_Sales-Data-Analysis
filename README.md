@@ -3,8 +3,10 @@
 ## Project Objective
 Superstore is seeking knowledge in understanding which products, regions, categories and customer segments should they target or avoid to make their sales better.
 
+
 ## Dataset used
 <a href="https://github.com/ssuunn31/Superstore_Sales-Data-Analysis/blob/main/cleaned_data2.csv">Superstore Dataset</a>
+
 
 ## Questions (KPIs)
 - What is the total sales and the total profit?
@@ -16,7 +18,8 @@ Superstore is seeking knowledge in understanding which products, regions, catego
 - How has the total sales changed over the years(2014-2017)?
 - What are the top 5 and bottom 5 cities and products by total sales and by total profit?
 
-Dashboard Interaction 
+
+Dashboard Interaction :
 
 <a href="https://github.com/ssuunn31/Superstore_Sales-Data-Analysis/blob/main/Home_Page.png">Home Page</a>
 
