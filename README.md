@@ -17,6 +17,7 @@ Superstore is seeking knowledge in understanding which products, regions, catego
 - What are the top 5 and bottom 5 cities and products by total sales and by total profit?
 
 Dashboard Interaction 
+
 <a href="https://github.com/ssuunn31/Superstore_Sales-Data-Analysis/blob/main/Home_Page.png">Home Page</a>
 
 <a href="https://github.com/ssuunn31/Superstore_Sales-Data-Analysis/blob/main/Top%205%2CBottom%205.png">Top 5/ Bottom 5</a>
