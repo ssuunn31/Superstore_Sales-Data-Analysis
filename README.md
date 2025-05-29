@@ -39,3 +39,17 @@ Dashboard Interaction :
 ![Screenshot 2025-05-18 142036](https://github.com/user-attachments/assets/9d548d8f-db94-4c35-9bea-86305cd7e2fd)
 
 
+## Project Insight
+- Total sales of 2.3 million and a total profit of 37.9 thousand.
+- Consumer segment of the customer has the highest sales with its contribution of more than 50% to 
+  the total sales.
+- The most preferred ship mode is Standard Class.
+- All categories-office supplies, technology and furniture have almost equal percentage of total 
+  sales.
+- Maximum sale in New York City, Los Angeles and Seattle.
+- Even though the profit and the total sales fluctuated a lot monthly, the total profit and total 
+  sales are seen increasing yearly, which indicates overall business stability and upward 
+  performance of the business.
+
+## Final Conclusion:
+For better sales from here onwards, Superstore should focus more on consumer segment of the customers and sub-categories like phones and chairs. And if possible, discontinue the business in cities like Chicago, Lancaster, San Antonio, Houston and Philadelphia as the profits in those cities are negative. Its also better to discontinue some of the products with negative profit. And focus more on more profitable cities and products.
